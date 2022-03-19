@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @cloudjumpercat
 - 👀 I’m interested in coding, technical writing, DevOps, and DocOps.
 - 🌱 I’m currently learning front-end development.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on docs-as-code.
 
 <!---
 cloudjumpercat/cloudjumpercat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
